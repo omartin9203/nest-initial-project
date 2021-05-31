@@ -45,4 +45,4 @@ ormconfig.json
 migrations
 env_oracle
 ecosystem.config.yml
-src/shared/core
+#src/shared/core
